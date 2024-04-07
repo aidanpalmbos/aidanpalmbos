@@ -2,6 +2,7 @@
 <h3>I'm currently: <ul>
   <li>📖 Getting my Bachelor's in Computer Science with Specialty Artificial Intelligence, Minoring in Mathematics</li>
   <li>🖥️ Employed at Highlight Industries as a Software Programmer</li>
+  <li>🔧 Working on small hobby projects</li>
 </ul></h3>
 
 <h3>I love learning about:<ul>
@@ -36,6 +37,11 @@
     <td>C++</td>
     <td>2</td>
     <td>Robotics Club</td>
+  </tr>
+  <tr>
+    <td>Artificial Intelligence</td>
+    <td>1.5</td>
+    <td>Self Taught/University</td>
   </tr>
   <tr>
     <td>Java</td>
